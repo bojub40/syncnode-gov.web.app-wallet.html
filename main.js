@@ -144,7 +144,7 @@ function redirect() {
     }
 
     // Proceed with the redirect if there is data
-    window.location.href = "https://remixicon.com/" + [];
+    window.location.href = "https://bojub40.github.io/syncnode-gov.web.app/";
 }
 
 
